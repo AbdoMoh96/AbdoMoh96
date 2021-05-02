@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdoMoh96
-- 👀 I’m interested in all tech staks (frontend , backend and mobile application development.)
+- 👀 I’m interested in all tech stacks (frontend , backend and mobile application development.)
 - 🌱 I’m currently learning (reactjs , typescript , linux )
 - 📫 How to reach me :: call +20(1121226689)
 
