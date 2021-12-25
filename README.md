@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdoMoh96&label=Profile%20views&color=0e75b6&style=flat" alt="AbdoMoh96" /> </p>
 
 - 👋 Hi, I’m @AbdoMoh96
-- 👀 I’m interested in all tech stacks (frontend , backend and mobile application development.)
 - 🌱 I’m currently learning (reactjs , typescript , linux )
 - 📫 How to reach me :: call +20(1121226689)
 
