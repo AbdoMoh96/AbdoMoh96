@@ -17,8 +17,8 @@
     <p align="left">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img
-          src="https://www.php.net/images/php8/logo_php8_1.svg"
-          alt="laravel"
+          src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg"
+          alt="php"
           width="40"
           height="40"
         />
