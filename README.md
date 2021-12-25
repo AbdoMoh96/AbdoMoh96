@@ -15,6 +15,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.php.net/images/php8/logo_php8_1.svg"
+          alt="laravel"
+          width="40"
+          height="40"
+        />
+      </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img
           src="https://laravel.com/img/logomark.min.svg"
