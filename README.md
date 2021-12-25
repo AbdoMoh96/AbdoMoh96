@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Rachid El Aid</h1>
+<h3 align="center">I'm a self thought developer from morocco, I love learning new stuff not just in the tech industry.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachidelaid&label=Profile%20views&color=0e75b6&style=flat" alt="rachidelaid" /> </p>
+
 - 👋 Hi, I’m @AbdoMoh96
 - 👀 I’m interested in all tech stacks (frontend , backend and mobile application development.)
 - 🌱 I’m currently learning (reactjs , typescript , linux )
