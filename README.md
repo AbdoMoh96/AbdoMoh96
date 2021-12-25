@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohammed</h1>
 <h3 align="center">I'm a self thought developer from Egypt, I love learning new stuff not just in the tech industry.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachidelaid&label=Profile%20views&color=0e75b6&style=flat" alt="rachidelaid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdoMoh96&label=Profile%20views&color=0e75b6&style=flat" alt="AbdoMoh96" /> </p>
 
 - 👋 Hi, I’m @AbdoMoh96
 - 👀 I’m interested in all tech stacks (frontend , backend and mobile application development.)
