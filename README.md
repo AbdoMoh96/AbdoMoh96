@@ -330,7 +330,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdoMoh96&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
         alt="rachidelaid"
       />
-    </p>\
+    </p>
     <p>
       <img
         align="center"
