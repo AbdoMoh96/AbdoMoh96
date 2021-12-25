@@ -323,7 +323,7 @@
           height="40"
         />
       </a>
-    </p>
+    </p> <!-- tools end here / stats start here -->
     <p>
       <img
         align="center"
