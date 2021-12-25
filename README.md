@@ -331,11 +331,9 @@
         alt="rachidelaid"
       />
     </p>
-    
-    <br />
-    
+    <br>
     <p>
-      &nbsp;<img
+      <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=AbdoMoh96&show_icons=true&locale=en&theme=chartreuse-dark"
         alt="rachidelaid"
