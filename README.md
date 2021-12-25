@@ -331,7 +331,8 @@
         alt="rachidelaid"
       />
     </p>
-    <br>
+    <br />
+    <br />
     <p>
       <img
         align="center"
