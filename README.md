@@ -15,6 +15,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://laravel.com/img/logomark.min.svg"
+          alt="laravel"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://bulma.io/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
