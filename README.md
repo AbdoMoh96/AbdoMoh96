@@ -55,6 +55,14 @@
           height="40"
         />
       </a>
+    <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"
+          alt="netlify"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
