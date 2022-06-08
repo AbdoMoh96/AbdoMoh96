@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdoMoh96&label=Profile%20views&color=0e75b6&style=flat" alt="AbdoMoh96" /> </p>
 
-- 🌱 I’m currently learning (reactjs , C# , linux );
+- 🌱 I’m currently learning (C# , linux);
 - 📫 How to reach me :: call +20(1121226689), Email :: abdo.moh96@outlook.com;
 
 <h3 align="left">Connect with me:</h3>
