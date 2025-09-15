@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on understanding Networking/Linux<br>👯 I'm looking to collaborate on Frontend/DevOps Projects<br>🌱 Currently Learning Networking/Linux/Angular/C Sharp<br>
+🔭 I'm currently working on understanding Networking/Linux<br>👯 I'm looking to collaborate on Frontend/DevOps Projects<br>🌱 Currently Learning Linux/DevOps<br>
 
 
 ## 🌐 Socials:
